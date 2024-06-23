@@ -1,0 +1,18 @@
+.home{
+    display: flex;
+    background-color: whitesmoke;
+    .container{
+        background-color: whitesmoke;
+        width:100%;
+        .users{
+            margin-top:30px;
+            margin-left: 30px;
+        }
+        .widgets{
+            display:flex;
+            flex-direction: row;
+            padding: 20px;
+            gap:20px;
+        }
+    }
+}

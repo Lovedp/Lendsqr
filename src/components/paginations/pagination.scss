@@ -1,0 +1,11 @@
+.pagination{
+    display:flex;
+    margin-top:2px;
+    justify-content: flex-end;
+    font-size: 100px;
+    margin-right: 40px;
+    li{
+        box-shadow: 5px;
+        background-color: white;
+    }
+}
